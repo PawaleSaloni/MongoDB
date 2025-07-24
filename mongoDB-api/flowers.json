@@ -1,0 +1,48 @@
+[
+    {
+      "flowerid": "F001",
+      "name": "Rose",
+      "color": "Red",
+      "price": 1.5,
+      "stock": 100,
+      "imageurl": "https://example.com/images/rose.jpg",
+      "category": "Romantic"
+    },
+    {
+      "flowerid": "F002",
+      "name": "Tulip",
+      "color": "Yellow",
+      "price": 1.2,
+      "stock": 80,
+      "imageurl": "https://example.com/images/tulip.jpg",
+      "category": "Spring"
+    },
+    {
+      "flowerid": "F003",
+      "name": "Lily",
+      "color": "White",
+      "price": 2.0,
+      "stock": 60,
+      "imageurl": "https://example.com/images/lily.jpg",
+      "category": "Elegant"
+    },
+    {
+      "flowerid": "F004",
+      "name": "Sunflower",
+      "color": "Yellow",
+      "price": 1.8,
+      "stock": 90,
+      "imageurl": "https://example.com/images/sunflower.jpg",
+      "category": "Cheerful"
+    },
+    {
+      "flowerid": "F005",
+      "name": "Orchid",
+      "color": "Purple",
+      "price": 3.0,
+      "stock": 50,
+      "imageurl": "https://example.com/images/orchid.jpg",
+      "category": "Exotic"
+    }
+  ]
+  
